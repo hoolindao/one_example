@@ -1,0 +1,1 @@
+29/04/2019 16:04 升级 vscode to 1.33.1 但是从命令行使用 code . 打开的 vscode 还在 1.32.3, 并且导致 dart，flutter，python 这三个插件失效。
