@@ -11,7 +11,7 @@ int main() {
     frah = lower;
 
     printf("frah\tcelsius\n-------------\n");
-    while(frah <= upper) {
+    while (frah <= upper) {
         celsius = 5.0 * (frah -32) /9.0;
         printf("%3.0f\t%6.2f\n", frah, celsius);
         frah = frah + step;
